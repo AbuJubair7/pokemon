@@ -3,6 +3,11 @@ Charizard
 Greninja
 Lucario
 Sceptile
+Spearow
+Fearow
+Ekans
+Arbok
+Pikachu
 Bulbasaur
 Squirtle
 Krookodile
