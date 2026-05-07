@@ -3,6 +3,11 @@ Charizard
 Greninja
 Lucario
 Sceptile
+Rowlet
+Talonflame
+Staraptor
+Bayleef
+Heracross
 Infernape
 Bulbasaur
 Snorlax
